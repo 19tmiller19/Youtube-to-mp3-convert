@@ -25,7 +25,7 @@ async function getAudio() {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '23ffcbd8a0mshbc8619a23ed613fp1405ddjsndc9264c6ea93',
+            'X-RapidAPI-Key': '23ffcbd8a0mshbc861**********************', //Rapid Api Key goes here
             'X-RapidAPI-Host': 'youtube-mp3-downloader2.p.rapidapi.com'
         }
     };
